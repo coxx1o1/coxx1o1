@@ -65,7 +65,7 @@ TypeScript | Git | React Native
 
 ## 📫 Connect with Me
 
-* 📧 Email: [yourmail@gmail.com](mailto:yourmail@gmail.com)
-* 💼 LinkedIn: your-linkedin
+* 📧 Email: [dpoolkr@gmail.com](mailto:dpoolkr@gmail.com)
+* 💼 LinkedIn: [Sachin Yadav](https://www.linkedin.com/in/sachin-yadav-9249502b1/)
 
 ---
