@@ -6,7 +6,7 @@
 ---
 
 ## 💡 About Me  
-- 🔭 Currently building real-world projects (EMS, SOS App, Chat App)  
+- 🔭 Currently building real-world projects (SOS App, Chat App)  
 - 🌱 Improving in TypeScript and System Design  
 - 📱 Exploring mobile development with React Native  
 - ⚡ Focused on building scalable and practical applications  
@@ -38,11 +38,6 @@
 
 ## 🚀 Projects
 
-### 🏫 Multi-School ERP System (EMS)
-
-* Role-based system (Admin, Teachers, Students)
-* Scalable multi-school architecture
-* Built using MERN stack
 
 ### 🚨 SOS Emergency Platform
 
