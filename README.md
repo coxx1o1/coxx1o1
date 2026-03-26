@@ -1,4 +1,19 @@
-# Strong
+# Project Title
 
-![PHP](https://img.shields.io/badge/PHP-7.4-informational?style=flat&logo=php&logoColor=white&color=4F5B93) ![Laravel](https://img.shields.io/badge/Laravel-8.x-red?style=flat&logo=laravel&logoColor=white)
+A brief description of your project.
 
+## Getting Started
+
+Instructions to set up the project locally.
+
+## Usage
+
+Instructions on how to use the project.
+
+## Contributing
+
+Instructions for contributing to the project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
