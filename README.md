@@ -7,7 +7,7 @@
 
 ## 💡 About Me  
 - 🔭 Currently building real-world projects (SOS App, Chat App)  
-- 🌱 Improving in TypeScript and System Design  
+- 🌱 Improving in logic and System Design  
 - 📱 Exploring mobile development with React Native  
 - ⚡ Focused on building scalable and practical applications  
 
