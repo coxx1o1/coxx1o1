@@ -1,17 +1,19 @@
 # 👋 Hi, I'm Sachin Yadav
 
-🚀 **Full Stack Developer (MERN)**
+🚀 **Full Stack Developer** (React, Node.js, Laravel, React Native)
 📱 Building Web & Mobile Apps (React Native)
 
 ---
 
 ## 💡 About Me  
-- 🔭 Currently building real-world projects (SOS App, Chat App)  
-- 🌱 Improving in logic and System Design  
-- 📱 Exploring mobile development with React Native  
-- ⚡ Focused on building scalable and practical applications  
+- 🚀 Full Stack Developer building production-ready applications with modern tech
+- 🎯 Specialized in real-time systems and scalable architectures
+- 🏗️ From emergency platforms to admin dashboards—I turn ideas into shipped products
+- 📱 Mobile-first approach using React Native and modern backend frameworks
+- 💡 Passionate about clean code, system design, and solving real-world problems
 
 ---
+
 ## 🛠️ Tech Stack  
 
 ### Mobile
