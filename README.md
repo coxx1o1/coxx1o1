@@ -14,6 +14,13 @@
 
 ---
 
+## My Work
+https://play.google.com/store/apps/details?id=com.paylap.invest — Paylap: Invest in Land Online — platform to invest in and manage land investments.
+https://play.google.com/store/apps/details?id=com.alexsye1999.PaylapFitness — PAYLAP Fitness — gym management app for owners, trainers, and members.
+https://play.google.com/store/apps/details?id=com.paylap.hrm — PAYLAP HRM — human resources management (attendance, payroll, employee management).
+https://play.google.com/store/apps/details?id=com.alexsye1999.paylappets — PAYLAP Pets — pet listings and adoption community to connect pets with homes.
+https://play.google.com/store/apps/details?id=com.paylap.paylapems — PaylapEMS — all-in-one business tools: credit score, invoicing, ledger, and HR features.
+
 ## 🛠️ Tech Stack  
 
 ### Mobile
