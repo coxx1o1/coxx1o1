@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sachin Yadav
 
 🚀 **Full Stack Developer** (React, Node.js, Laravel, React Native)
-📱 Building Web & Mobile Apps (React Native)
+📱 Building Web & Mobile Apps. 
 
 ---
 
